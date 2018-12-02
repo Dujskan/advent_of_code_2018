@@ -1,3 +1,4 @@
+//forced code, got to fix this. it solved the issue for me, but its not complete.
 window.onload = function(){
     let ids = idList.split('\n');
     let id = '';
